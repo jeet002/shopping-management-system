@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Aug 01, 2025 at 07:55 AM
+-- Generation Time: Aug 01, 2025 at 08:08 AM
 -- Server version: 5.7.36
 -- PHP Version: 7.4.26
 
@@ -258,9 +258,9 @@ INSERT INTO `product` (`Pid`, `Pname`, `Prate`, `Pimage`, `DateTime`) VALUES
 (10, 'AC', 60000, '', '2024-06-14'),
 (16, 'Blanket', 500, '', '2024-11-19'),
 (15, 'KinderJoy', 90, '', '2024-09-09'),
-(18, 'Cup', 100, 'product_images\\5_EmailAlreadyExists.png', '2024-11-20'),
-(19, 'Desktop', 60000, 'download.jpeg', '2024-11-20'),
-(20, 'Jar', 400, 'product_images\\Jar.jpg', '2024-11-20');
+(18, 'Cup', 100, '', '2024-11-20'),
+(19, 'Desktop', 60000, '', '2024-11-20'),
+(20, 'Jar', 400, '', '2024-11-20');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
