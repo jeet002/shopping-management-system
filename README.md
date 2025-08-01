@@ -122,6 +122,7 @@ The files are interconnected with buttons to navigate between different modules.
 ![image alt](https://github.com/jeet002/shopping-management-system/blob/c146360c3b951ad52905ce15bed09c8527db3d8f/Customer.png)
 ![image alt](https://github.com/jeet002/shopping-management-system/blob/ab70f6e7734b9aff50796365f6502103298aec96/Product.png)
 ![image alt](https://github.com/jeet002/shopping-management-system/blob/584e7a8ac7e061c132428ae54101351398379cea/Main_Filled_Page.png)
+![image alt](https://github.com/jeet002/shopping-management-system/blob/049765ad9253bb1c78519d9064aae7d66673f720/Email_Notification.png)
 
 ## File Structure
 Customer.py: Customer management module
